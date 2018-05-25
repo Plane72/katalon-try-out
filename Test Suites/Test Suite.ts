@@ -4,7 +4,7 @@
    <name>Test Suite</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-05-24T21:27:52</lastRun>
+   <lastRun>2018-05-24T22:44:28</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
@@ -16,5 +16,11 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/BasicFlow</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>62ffa42b-4d52-4a37-bed1-5271e593f200</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Goolge Search</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>
