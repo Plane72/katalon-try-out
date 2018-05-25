@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Test Suite" time="13" tests="1" failures="0" errors="0">
+   <testsuite name="Test Suite" tests="1" failures="0" errors="0" time="13" timestamp="2018-05-24 21:27:55" hostname="Michael - Michael-HP" id="Test Suites/Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Katalon Studio\\First Katalon Project\\Reports\\Test Suite\\20180524_212752"/>
+         <property name="logFiles" value="C:\\Katalon Studio\\First Katalon Project\\Reports\\Test Suite\\20180524_212752\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Michael - Michael-HP"/>
+         <property name="os" value="Windows 7 64bit"/>
+         <property name="katalonVersion" value="5.4.1.1"/>
+         <property name="browser" value="Firefox 59.0"/>
+         <property name="hostAddress" value="192.168.0.184"/>
+         <property name="sessionId" value="5439e60d-a02c-4352-8244-dd040a0560bd"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/BasicFlow" classname="Test Cases/BasicFlow" status="PASSED">
+         <system-out><![CDATA[2018-05-24 21:27:56 - [TEST_CASE][PASSED] - Test Cases/BasicFlow: Test Cases/BasicFlow
+
+2018-05-24 21:27:56 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-05-24 21:28:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-05-24 21:28:03 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'http://demoaut.katalon.com/' successfully
+
+2018-05-24 21:28:04 - [MESSAGE][PASSED] - Navigate to 'http://demoaut.katalon.com/' successfully
+
+2018-05-24 21:28:04 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-05-24 21:28:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Make Appointment' is clicked on
+
+2018-05-24 21:28:04 - [TEST_STEP][PASSED] - setText: Text 'john doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_username'
+
+2018-05-24 21:28:04 - [MESSAGE][PASSED] - Text 'john doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_username'
+
+2018-05-24 21:28:04 - [TEST_STEP][PASSED] - setText: Text 'ThisIsNotPassword' is set on object 'Object Repository/Page_CURA Healthcare Service/input_password'
+
+2018-05-24 21:28:05 - [MESSAGE][PASSED] - Text 'ThisIsNotPassword' is set on object 'Object Repository/Page_CURA Healthcare Service/input_password'
+
+2018-05-24 21:28:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-05-24 21:28:05 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-05-24 21:28:05 - [TEST_STEP][PASSED] - setText: Text 'Jo' is set on object 'Object Repository/Page_CURA Healthcare Service/input_username'
+
+2018-05-24 21:28:05 - [MESSAGE][PASSED] - Text 'Jo' is set on object 'Object Repository/Page_CURA Healthcare Service/input_username'
+
+2018-05-24 21:28:05 - [TEST_STEP][PASSED] - setText: Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_username'
+
+2018-05-24 21:28:05 - [MESSAGE][PASSED] - Text 'John Doe' is set on object 'Object Repository/Page_CURA Healthcare Service/input_username'
+
+2018-05-24 21:28:05 - [TEST_STEP][PASSED] - setText: Text 'ThisIsNotAPassword' is set on object 'Object Repository/Page_CURA Healthcare Service/input_password'
+
+2018-05-24 21:28:05 - [MESSAGE][PASSED] - Text 'ThisIsNotAPassword' is set on object 'Object Repository/Page_CURA Healthcare Service/input_password'
+
+2018-05-24 21:28:05 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-05-24 21:28:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Login' is clicked on
+
+2018-05-24 21:28:06 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value 'Seoul CURA Healthcare Center' are selected in object 'Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare C'  using regular expression
+
+2018-05-24 21:28:06 - [MESSAGE][PASSED] - All options with value 'Seoul CURA Healthcare Center' are selected in object 'Object Repository/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare C'  using regular expression
+
+2018-05-24 21:28:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service/input_hospital_readmission' is clicked on
+
+2018-05-24 21:28:06 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/input_hospital_readmission' is clicked on
+
+2018-05-24 21:28:06 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service/input_programs' is clicked on
+
+2018-05-24 21:28:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/input_programs' is clicked on
+
+2018-05-24 21:28:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service/div_input-group-addon' is clicked on
+
+2018-05-24 21:28:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/div_input-group-addon' is clicked on
+
+2018-05-24 21:28:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service/td_3' is clicked on
+
+2018-05-24 21:28:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/td_3' is clicked on
+
+2018-05-24 21:28:07 - [TEST_STEP][PASSED] - setText: Text 'This is a test comment' is set on object 'Object Repository/Page_CURA Healthcare Service/textarea_comment'
+
+2018-05-24 21:28:07 - [MESSAGE][PASSED] - Text 'This is a test comment' is set on object 'Object Repository/Page_CURA Healthcare Service/textarea_comment'
+
+2018-05-24 21:28:07 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service/button_Book Appointment' is clicked on
+
+2018-05-24 21:28:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/button_Book Appointment' is clicked on
+
+2018-05-24 21:28:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service/a_menu-toggle' is clicked on
+
+2018-05-24 21:28:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_menu-toggle' is clicked on
+
+2018-05-24 21:28:08 - [TEST_STEP][PASSED] - waitForElementClickable: Object 'Object Repository/Page_CURA Healthcare Service/a_Logout' is clickable
+
+2018-05-24 21:28:08 - [MESSAGE][PASSED] - Object 'Object Repository/Page_CURA Healthcare Service/a_Logout' is clickable
+
+2018-05-24 21:28:08 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_CURA Healthcare Service/a_Logout' is clicked on
+
+2018-05-24 21:28:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_CURA Healthcare Service/a_Logout' is clicked on
+
+2018-05-24 21:28:09 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-05-24 21:28:09 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-05-24 21:27:55 - [TEST_SUITE][PASSED] - Test Suite: Test Cases/BasicFlow]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>First Katalon Project</name>
+   <tag></tag>
+   <UUID>f439e388-49c9-45a6-b3a7-6db61f83d64a</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
