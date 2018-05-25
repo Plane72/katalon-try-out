@@ -57,7 +57,7 @@ WebUI.click(findTestObject('Page_CURA Healthcare Service/button_Book Appointment
 
 WebUI.click(findTestObject('Page_CURA Healthcare Service/a_menu-toggle'))
 
-WebUI.waitForElementClickable(findTestObject('Page_CURA Healthcare Service/a_Logout'), 5)
+WebUI.waitForElementClickable(findTestObject('Page_CURA Healthcare Service/a_Logout'), 4)
 
 WebUI.click(findTestObject('Page_CURA Healthcare Service/a_Logout'))
 
